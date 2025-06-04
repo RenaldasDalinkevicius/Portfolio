@@ -8,7 +8,7 @@ function Landing() {
             <section className="intro">
                 <h1>Hi, I'm Renaldas</h1>
                 <p className="intro_extra"> Interactive design student at Kristiania</p>
-                <p className="intro_description">I enjoy any sort of IT work really. Have experience in IT customer support, coding and onsite IT-support. I'm a person who is dedicated to their work. I like to get work done, i don't like to be idle for too long. Currently on the lookout for any sort of IT work. If i sound like the person you are looking for. Then please reach out!</p>
+                <p className="intro_description">I enjoy any sort of IT work really. Have experience in IT customer support, coding and onsite IT-support. I'm a person who is dedicated to their work. I like to get work done, i don't like to be idle for too long. Currently on the lookout for any sort of IT work. If i sound like the person you are looking for. Then please reach out</p>
                 <div className="btn_wrapper">
                     <Link to="/about" className="intro_button">More information</Link>
                 </div>  

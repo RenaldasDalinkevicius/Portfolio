@@ -1,5 +1,6 @@
 import Project from "../components/project"
 import data from "../assets/data"
+import { Link } from "react-router-dom"
 
 function Landing() {
     return (
@@ -9,7 +10,7 @@ function Landing() {
                 <p className="intro_extra"> Interactive design student at Kristiania</p>
                 <p className="intro_description">I enjoy any sort of IT work really. Have experience in IT customer support, coding and onsite IT-support. I'm a person who is dedicated to their work. I like to get work done, i don't like to be idle for too long. Currently on the lookout for any sort of IT work. If i sound like the person you are looking for. Then please reach out!</p>
                 <div className="btn_wrapper">
-                    <a href="/about" className="intro_button">More information</a>
+                    <Link to="/about" className="intro_button">More information</Link>
                 </div>  
             </section>
             <div className="divider"></div>

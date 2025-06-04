@@ -20,7 +20,7 @@ export default {
         {
             title: "Forsvarsmateriell",
             description: "As part of a small team, I contributed to an accessibility review of Forsvarsmateriell’s website. We built on their existing accessibility statement, conducted manual testing, and held usability sessions with visually impaired users. This collaborative approach allowed us to identify key issues and propose improvements to make the website more inclusive for all.",
-            link: "/docs/fma.pdf"
+            link: "./docs/fma.pdf"
         }
     ],
     "cv_experience": [
